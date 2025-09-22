@@ -1,4 +1,4 @@
-# Hi, I'm Yam Ferreira 👋
+# Hello,World, I'm Yam Ferreira 👋
 
 Desenvolvedor Full Stack em formação (ADS FMU 2025) | Apaixonado por criar soluções eficientes e aprender novas tecnologias 🚀
 
