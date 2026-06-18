@@ -18,7 +18,7 @@
 
 Desenvolvedor **Back-End Java** focado em **arquitetura de software** e sistemas **orientados a eventos**. Construindo back-ends escaláveis e resilientes na nuvem AWS.
 
-- 🎓 ADS · FMU (2025)
+- 🎓 ADS · FMU (2026)
 - 🌱 Aprofundando em mensageria assíncrona e design de sistemas distribuídos
 - 🤝 Aberto a networking e novas conexões
 
@@ -109,7 +109,4 @@ Desenvolvedor **Back-End Java** focado em **arquitetura de software** e sistemas
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/yamferreira)
-- [GitHub](https://github.com/yamferreira)
-
----
+- [Email](yamferreira6@gmail.com)
